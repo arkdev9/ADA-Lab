@@ -1,7 +1,0 @@
-Sum of subset
-Graph colouring
-8queen
-0-1 knapsack DP
-TSP
-DFS
-BFS
