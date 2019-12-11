@@ -18,7 +18,7 @@ int main() {
 	printf("The nodes which are reachable are:\n");
 	for (int i = 0; i < N; i++) {
 		if (visited[i])
-			printf("%d\t", i);
+			printf("%d\t", i + 1);
 		else {
 			printf("BFS is not possible. Not all nodes are reachable\n");
 			break;
